@@ -1,0 +1,2 @@
+# CheatKR-Rivals
+Rivals Script
