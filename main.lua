@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/blackowl1231/Z3US/refs/heads/main/Games/other.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CheatKorea/CheatKR-Rivals/refs/heads/main/Games/other.lua"))()
 local z3USLoader = Instance.new("ScreenGui")
 z3USLoader.Name = "CheatKR Loader"
 z3USLoader.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
